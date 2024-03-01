@@ -1,0 +1,23 @@
+1 - Controllare la lista
+    - Prendo il listino
+    - Controllo tutte le pizze 
+
+2 - Scegliere la pizza
+    - Controlla ogni pizza
+      - Se è prosciutto e funghi smetti di cercare
+
+3 - Ordino la pizza
+    - Prendo il telefono
+    - Chiamo la pizzeria
+      - Se non è possibile avere la prosciutto e funghi non ordino nulla
+      - Ordino la pizza 
+
+4 - Ritirare la comsegna
+    - Apro la porta
+    - Pago il fattorino
+    - Predno la pizza
+    - Chiudo la porta
+
+5 - Tenere gli avanzi
+    - Se finisco la pizza non faccio niente
+    - Altrimenti la metto in frigo
